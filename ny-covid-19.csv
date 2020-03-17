@@ -1,116 +1,116 @@
-County	Positive Cases	Date
-Westchester County	82	2020-03-08
-Nassau County	5	2020-03-08
-Rockland County	2	2020-03-08
-Saratoga County	2	2020-03-08
-Suffolk County	1	2020-03-08
-Ulster County	1	2020-03-08
-New York State (Outside of NYC)	93	2020-03-08
-New York City	12	2020-03-08
-Total Positive Cases (Statewide)	105	2020-03-08
-Westchester County	98	2020-03-09
-Nassau County	17	2020-03-09
-Rockland County	4	2020-03-09
-Saratoga County	2	2020-03-09
-Suffolk County	1	2020-03-09
-Ulster County	1	2020-03-09
-New York State (Outside of NYC)	123	2020-03-09
-New York City	19	2020-03-09
-Total Positive Cases (Statewide)	142	2020-03-09
-Westchester County	108	2020-03-10
-Nassau County	19	2020-03-10
-Rockland County	6	2020-03-10
-Saratoga County	2	2020-03-10
-Suffolk County	1	2020-03-10
-Ulster County	1	2020-03-10
-New York State (Outside of NYC)	137	2020-03-10
-New York City	36	2020-03-10
-Total Positive Cases (Statewide)	173	2020-03-10
-Westchester County	121	2020-03-11
-Nassau County	28	2020-03-11
-Suffolk County	6	2020-03-11
-Rockland County	6	2020-03-11
-Saratoga County	2	2020-03-11
-Ulster County	1	2020-03-11
-New York State (Outside of NYC)	164	2020-03-11
-New York City	52	2020-03-11
-Total Positive Cases (Statewide)	216	2020-03-11
-Westchester County	148	2020-03-12
-Nassau County	41	2020-03-12
-Suffolk County	20	2020-03-12
-Rockland County	7	2020-03-12
-Saratoga County	3	2020-03-12
-Ulster County	4	2020-03-12
-Orange County	1	2020-03-12
-Albany County	1	2020-03-12
-Monroe County	1	2020-03-12
-Dutchess County	1	2020-03-12
-Delaware County	1	2020-03-12
-Herkimer County	1	2020-03-12
-Broome County	1	2020-03-12
-New York State (Outside of NYC)	230	2020-03-12
-New York City	95	2020-03-12
-Total Positive Cases (Statewide)	325	2020-03-12
-Westchester County	158	2020-03-13
-Nassau County	51	2020-03-13
-Suffolk County	28	2020-03-13
-Rockland County	9	2020-03-13
-Ulster County	5	2020-03-13
-Dutchess County	3	2020-03-13
-Orange County	3	2020-03-13
-Saratoga County	3	2020-03-13
-Albany County	2	2020-03-13
-Broome County	1	2020-03-13
-Delaware County	1	2020-03-13
-Herkimer County	1	2020-03-13
-Monroe County	1	2020-03-13
-Schenectady County	1	2020-03-13
-New York State (Outside of NYC)	267	2020-03-13
-New York City	154	2020-03-13
-Total Positive Cases (Statewide)	421	2020-03-13
-Westchester	178	2020-03-14
-Nassau	79	2020-03-14
-Suffolk	41	2020-03-14
-Rockland	12	2020-03-14
-Orange	6	2020-03-14
-Albany	5	2020-03-14
-Ulster	5	2020-03-14
-Dutchess	4	2020-03-14
-Erie	3	2020-03-14
-Saratoga	3	2020-03-14
-Monroe	2	2020-03-14
-Broom	1	2020-03-14
-Delaware	1	2020-03-14
-Herkimer	1	2020-03-14
-Schenectady	1	2020-03-14
-Tioga	1	2020-03-14
-Tompkins	1	2020-03-14
-New York State (Outside of NYC)	344	2020-03-14
-New York City:	269	2020-03-14
-Total Positive Cases (Statewide)	613	2020-03-14
-Westchester	220	2020-03-16
-Nassau	109	2020-03-16
-Suffolk	63	2020-03-16
-Rockland	16	2020-03-16
-Albany	12	2020-03-16
-Orange	11	2020-03-16
-Dutchess	10	2020-03-16
-Monroe	10	2020-03-16
-Ulster	7	2020-03-16
-Saratoga	5	2020-03-16
-Erie	6	2020-03-16
-Schenectady	4	2020-03-16
-Greene	2	2020-03-16
-Putnam	2	2020-03-16
-Allegany	2	2020-03-16
-Broome	1	2020-03-16
-Delaware	1	2020-03-16
-Herkimer	1	2020-03-16
-Tioga	1	2020-03-16
-Tompkins	1	2020-03-16
-Montgomery	1	2020-03-16
-Onondaga	1	2020-03-16
-Ontario	1	2020-03-16
-New York State (Outside of NYC)	487	2020-03-16
-New York City:	463	2020-03-16
-Total Positive Cases (Statewide)	950	2020-03-16
+County,Positive Cases,Date
+Westchester County,82,3/8/2020
+Nassau County,5,3/8/2020
+Rockland County,2,3/8/2020
+Saratoga County,2,3/8/2020
+Suffolk County,1,3/8/2020
+Ulster County,1,3/8/2020
+New York State (Outside of NYC),93,3/8/2020
+New York City,12,3/8/2020
+Total Positive Cases (Statewide),105,3/8/2020
+Westchester County,98,3/9/2020
+Nassau County,17,3/9/2020
+Rockland County,4,3/9/2020
+Saratoga County,2,3/9/2020
+Suffolk County,1,3/9/2020
+Ulster County,1,3/9/2020
+New York State (Outside of NYC),123,3/9/2020
+New York City,19,3/9/2020
+Total Positive Cases (Statewide),142,3/9/2020
+Westchester County,108,3/10/2020
+Nassau County,19,3/10/2020
+Rockland County,6,3/10/2020
+Saratoga County,2,3/10/2020
+Suffolk County,1,3/10/2020
+Ulster County,1,3/10/2020
+New York State (Outside of NYC),137,3/10/2020
+New York City,36,3/10/2020
+Total Positive Cases (Statewide),173,3/10/2020
+Westchester County,121,3/11/2020
+Nassau County,28,3/11/2020
+Suffolk County,6,3/11/2020
+Rockland County,6,3/11/2020
+Saratoga County,2,3/11/2020
+Ulster County,1,3/11/2020
+New York State (Outside of NYC),164,3/11/2020
+New York City,52,3/11/2020
+Total Positive Cases (Statewide),216,3/11/2020
+Westchester County,148,3/12/2020
+Nassau County,41,3/12/2020
+Suffolk County,20,3/12/2020
+Rockland County,7,3/12/2020
+Saratoga County,3,3/12/2020
+Ulster County,4,3/12/2020
+Orange County,1,3/12/2020
+Albany County,1,3/12/2020
+Monroe County,1,3/12/2020
+Dutchess County,1,3/12/2020
+Delaware County,1,3/12/2020
+Herkimer County,1,3/12/2020
+Broome County,1,3/12/2020
+New York State (Outside of NYC),230,3/12/2020
+New York City,95,3/12/2020
+Total Positive Cases (Statewide),325,3/12/2020
+Westchester County,158,3/13/2020
+Nassau County,51,3/13/2020
+Suffolk County,28,3/13/2020
+Rockland County,9,3/13/2020
+Ulster County,5,3/13/2020
+Dutchess County,3,3/13/2020
+Orange County,3,3/13/2020
+Saratoga County,3,3/13/2020
+Albany County,2,3/13/2020
+Broome County,1,3/13/2020
+Delaware County,1,3/13/2020
+Herkimer County,1,3/13/2020
+Monroe County,1,3/13/2020
+Schenectady County,1,3/13/2020
+New York State (Outside of NYC),267,3/13/2020
+New York City,154,3/13/2020
+Total Positive Cases (Statewide),421,3/13/2020
+Westchester,178,3/14/2020
+Nassau,79,3/14/2020
+Suffolk,41,3/14/2020
+Rockland,12,3/14/2020
+Orange,6,3/14/2020
+Albany,5,3/14/2020
+Ulster,5,3/14/2020
+Dutchess,4,3/14/2020
+Erie,3,3/14/2020
+Saratoga,3,3/14/2020
+Monroe,2,3/14/2020
+Broom,1,3/14/2020
+Delaware,1,3/14/2020
+Herkimer,1,3/14/2020
+Schenectady,1,3/14/2020
+Tioga,1,3/14/2020
+Tompkins,1,3/14/2020
+New York State (Outside of NYC),344,3/14/2020
+New York City:,269,3/14/2020
+Total Positive Cases (Statewide),613,3/14/2020
+Westchester,220,3/16/2020
+Nassau,109,3/16/2020
+Suffolk,63,3/16/2020
+Rockland,16,3/16/2020
+Albany,12,3/16/2020
+Orange,11,3/16/2020
+Dutchess,10,3/16/2020
+Monroe,10,3/16/2020
+Ulster,7,3/16/2020
+Saratoga,5,3/16/2020
+Erie,6,3/16/2020
+Schenectady,4,3/16/2020
+Greene,2,3/16/2020
+Putnam,2,3/16/2020
+Allegany,2,3/16/2020
+Broome,1,3/16/2020
+Delaware,1,3/16/2020
+Herkimer,1,3/16/2020
+Tioga,1,3/16/2020
+Tompkins,1,3/16/2020
+Montgomery,1,3/16/2020
+Onondaga,1,3/16/2020
+Ontario,1,3/16/2020
+New York State (Outside of NYC),487,3/16/2020
+New York City:,463,3/16/2020
+Total Positive Cases (Statewide),950,3/16/2020
