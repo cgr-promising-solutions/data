@@ -1,47 +1,53 @@
-County	FIPS	Standardized Name
-Total Positive Cases (Statewide)	36	New York State
-Albany	36001	Albany
-Albany County	36001	Albany
-Allegany	36003	Allegany
-Broom	36007	Broome
-Broome	36007	Broome
-Broome County	36007	Broome
-Clinton	36019	Clinton
-Delaware	36025	Delaware
-Delaware County	36025	Delaware
-Dutchess	36027	Dutchess
-Dutchess County	36027	Dutchess
-Erie	36029	Erie
-Greene	36039	Greene
-Herkimer	36043	Herkimer
-Herkimer County	36043	Herkimer
-Monroe	36055	Monroe
-Monroe County	36055	Monroe
-Montgomery	36057	Montgomery
-Nassau	36059	Nassau
-Nassau County	36059	Nassau
-Onondaga	36067	Onondaga
-Ontario	36069	Ontario
-Orange	36071	Orange
-Orange County	36071	Orange
-Putnam	36079	Putnam
-Rensselaer	36083	Rensselaer
-Rockland	36087	Rockland
-Rockland County	36087	Rockland
-Saratoga	36091	Saratoga
-Saratoga County	36091	Saratoga
-Schenectady	36093	Schenectady
-Schenectady County	36093	Schenectady
-Suffolk	36103	Suffolk
-Suffolk County	36103	Suffolk
-Sullivan	36105	Sullivan
-Tioga	36107	Tioga
-Tompkins	36109	Tompkins
-Ulster	36111	Ulster
-Ulster County	36111	Ulster
-Westchester	36119	Westchester
-Westchester County	36119	Westchester
-Wyoming	36121	Wyoming
-New York State (Outside of NYC)	36125	New York State (Outside of NYC)
-New York City	3651000	New York City
-New York City:	3651000	New York City
+﻿County,FIPS,Standardized Name
+Total Number of Positive Cases,36,New York State
+Total Positive Cases (Statewide),36,New York State
+Albany,36001,Albany
+Albany County,36001,Albany
+Allegany,36003,Allegany
+Broom,36007,Broome
+Broome,36007,Broome
+Broome County,36007,Broome
+Chenango,36017,Chenango
+Clinton,36019,Clinton
+Delaware,36025,Delaware
+Delaware County,36025,Delaware
+Dutchess,36027,Dutchess
+Dutchess County,36027,Dutchess
+Erie,36029,Erie
+Essex,36031,Essex
+Greene,36039,Greene
+Hamilton,36041,Hamilton
+Herkimer,36043,Herkimer
+Herkimer County,36043,Herkimer
+Monroe,36055,Monroe
+Monroe County,36055,Monroe
+Montgomery,36057,Montgomery
+Nassau,36059,Nassau
+Nassau County,36059,Nassau
+Onondaga,36067,Onondaga
+Ontario,36069,Ontario
+Orange,36071,Orange
+Orange County,36071,Orange
+Putnam,36079,Putnam
+Rensselaer,36083,Rensselaer
+Rockland,36087,Rockland
+Rockland County,36087,Rockland
+Saratoga,36091,Saratoga
+Saratoga County,36091,Saratoga
+Schenectady,36093,Schenectady
+Schenectady County,36093,Schenectady
+Suffolk,36103,Suffolk
+Suffolk County,36103,Suffolk
+Sullivan,36105,Sullivan
+Tioga,36107,Tioga
+Tompkins,36109,Tompkins
+Ulster,36111,Ulster
+Ulster County,36111,Ulster
+Warren,36113,Warren
+Washington,36115,Washington
+Westchester,36119,Westchester
+Westchester County,36119,Westchester
+Wyoming,36121,Wyoming
+New York State (Outside of NYC),36125,New York State (Outside of NYC)
+New York City,3651000,New York City
+New York City:,3651000,New York City
