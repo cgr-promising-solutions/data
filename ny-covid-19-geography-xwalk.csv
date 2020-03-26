@@ -1,4 +1,4 @@
-﻿County,FIPS,Standardized Name
+County,FIPS,Standardized Name
 Total Number of Positive Cases,36,New York State
 Total Positive Cases (Statewide),36,New York State
 Albany,36001,Albany
@@ -8,6 +8,8 @@ Broom,36007,Broome
 Broome,36007,Broome
 Broome County,36007,Broome
 Cayuga,36011,Cayuga
+Chautauqua,36013,Chautauqua
+Chemung,36015,Chemung
 Chenango,36017,Chenango
 Clinton,36019,Clinton
 Columbia,36021,Columbia
@@ -18,6 +20,7 @@ Dutchess,36027,Dutchess
 Dutchess County,36027,Dutchess
 Erie,36029,Erie
 Essex,36031,Essex
+Franklin,36033,Franklin
 Fulton,36035,Fulton
 Genesee,36037,Genesee
 Greene,36039,Greene
@@ -38,6 +41,7 @@ Onondaga,36067,Onondaga
 Ontario,36069,Ontario
 Orange,36071,Orange
 Orange County,36071,Orange
+Orleans,36073,Orleans
 Oswego,36075,Oswego
 Otsego,36077,Otsego
 Putnam,36079,Putnam
